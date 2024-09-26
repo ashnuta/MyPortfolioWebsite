@@ -490,12 +490,12 @@ a{
 }
 
 #project1{
-    background-image: url(./images/projects/Proj1.png);
+    background-image: url(./images/projects/Pro1.png);
 }
 #project2{
     margin-left: 120px;
     margin-top: 80px;
-    background-image: url(./images/projects/Project2.png);
+    background-image: url(./images/projects/Proj1.png);
 }
 #project3{
     margin-top: 80px;
